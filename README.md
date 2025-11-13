@@ -6,7 +6,7 @@ With the prevalence of social networks on online platforms, social recommendatio
 ### **Quick Start**
 Run the code with: python main.py --dataset ciao --core 0
 
-@@ -12,5 +15,4 @@ Run the code with: python main.py --dataset ciao --core 0
+### **Citation & References**
   volume={37},
   number={11},
   pages={6666-6679},
